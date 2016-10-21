@@ -4,6 +4,7 @@
  *
  * @author Andriu Blyzniuk
  */
+
 const gulp = require('gulp');
 const concat = require('gulp-concat');
 const sourcemaps = require('gulp-sourcemaps');
